@@ -8,3 +8,5 @@
 
 `some_app.log → Filebeat → Logstash → Elasticsearch → Kibana`
 
+# 1
+<img width="1278" height="507" alt="1" src="https://github.com/user-attachments/assets/959d3995-d365-423d-9b13-55f945538e97" />
